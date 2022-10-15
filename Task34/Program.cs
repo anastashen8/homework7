@@ -19,4 +19,4 @@ for(int i = 0; i < array.Length; i++)
         result++;    
     }
 }
-Console.Write("Количество нечетных элементов: " + result);
+Console.Write("Количество четных чисел: " + result);
